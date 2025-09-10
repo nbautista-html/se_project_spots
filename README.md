@@ -1,21 +1,30 @@
 # Project 3: Spots
 
-### Overview  
+An image sharing site.
 
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**
-  
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!
+## Description
+
+Spots is a sleek, user-friendly web application that lets users save, organize, and revisit articles across popular topics like travel, entertainment, and history. Whether you're curating your own reading list or diving into new discoveries, Spots keeps your favorite stories just a click away.
+
+- Key Features
+
+* Save Articles: Bookmark articles for later reading with a clean, intuitive interface.
+* Topic-Based Browsing: Explore curated content in travel, entertainment, and history.
+* Responsive Design: Optimized for all major screen sizes—from mobile to desktop—ensuring seamless display and usability.
+* SEO-Friendly Structure: Includes well-crafted meta descriptions to improve visibility in search results and attract more users.
+
+## Tech Stack
+
+- HTML: Semantic structure for accessible, SEO-friendly markup.
+- CSS: Custom styling with media queries for responsive layouts and polished visual design.
+- Responisve Design: Ensures consistent user experience across devices using flexible grids, scalable typography, and adaptive components.
+
+## Images
+
+#![Screenshot 1](image-1.png)![Screenshot 2](image-2.png)
+
+## Deployment
+
+This webpage is deployed to GitHub Pages.
+
+- Deployment Link:(https://nbautista-html.github.io/se_project_spots/)
