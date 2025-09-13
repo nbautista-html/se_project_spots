@@ -25,7 +25,7 @@ Spots is a sleek, user-friendly web application that lets users save, organize, 
 
 ## Video Demo
 
-https://www.loom.com/share/c044c19cf68c4a2fa7eb194338d951a0
+https://www.loom.com/share/b10a3136e57a4164ae1b1679228c9264?sid=de99d538-c3eb-4868-b6cd-e64453f1ca9f
 
 ## Deployment
 
