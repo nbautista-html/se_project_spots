@@ -23,6 +23,10 @@ Spots is a sleek, user-friendly web application that lets users save, organize, 
 
 #![Screenshot 1](image-1.png)![Screenshot 2](image-2.png)
 
+## Video Demo
+
+https://www.loom.com/share/c044c19cf68c4a2fa7eb194338d951a0
+
 ## Deployment
 
 This webpage is deployed to GitHub Pages.
