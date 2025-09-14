@@ -116,6 +116,7 @@
   }
 
   .profile__column {
+    align-items: center;
     text-align: center;
     margin: 0 0 20px;
   }
