@@ -11,6 +11,7 @@
   object-fit: cover;
   display: block;
   border-radius: 8px;
+  cursor: pointer;
 }
 
 .card__content {
@@ -64,7 +65,6 @@
 .card__delete-btn {
   background: rgba(0, 0, 0, 0.3) url(../images/delete-hover.svg) no-repeat
     center;
-  opacity: 1;
   border: none;
   border-radius: 50px;
   opacity: 1;
