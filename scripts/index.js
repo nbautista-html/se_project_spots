@@ -120,18 +120,10 @@ function handleEditProfileSubmit(evt) {
 
 editProfileForm.addEventListener("submit", handleEditProfileSubmit);
 
-function handleNewPostSubmit(evt) {
-  evt.preventDefault();
-  evt.target.reset();
-  closeModal(newPostModal);
-}
-
 newPostForm.addEventListener("submit", handleNewPostForm);
 
 function handleNewPostForm(evt) {
   evt.preventDefault();
-  evt.target.reset();
-  openModal(newPostForm);
 
   const inputValues = {
     name: captionInput.value,
@@ -140,6 +132,14 @@ function handleNewPostForm(evt) {
 
   const cardElement = getCardElement(inputValues);
   cardsList.prepend(cardElement);
+
+  evt.target.reset();
+  closeModal(newPostModal);
+}
+
+function renderCard(item, method = "prepend") {
+  const cardElement = getCardElement(item);
+  cardsList[method](cardElement);
 }
 
 initialCards.forEach(function (item) {
