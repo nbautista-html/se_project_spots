@@ -44,7 +44,7 @@
   height: 20px;
   border: none;
   background-color: transparent;
-  opacity: 40%;
+  opacity: 0.4;
 }
 
 .card__like-btn:hover {
